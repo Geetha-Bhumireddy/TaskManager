@@ -1,0 +1,39 @@
+.task-item{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:auto;
+    border-style:solid;
+    border-left-width: 5px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    width:70%;
+    height:20vh;
+    padding:10px;
+    border-left-color: skyblue;
+    margin-bottom:10px;
+    border-radius: 10px;
+}
+
+.delete-button{
+    height:60px;
+    width:60px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 0px;
+    margin-top:50px;
+}
+
+.task-text-section{
+    margin-left:30px;
+}
+
+.delete-icon{
+    height:40px;
+    width:40px;
+}
+
+span{
+    font-weight:bold;
+}
