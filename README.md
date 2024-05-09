@@ -58,14 +58,14 @@ To run this application locally, follow these steps:
 2. **Install Dependencies**: Navigate into the project directory and install the necessary dependencies using npm or yarn:
 
     ```bash
-    cd task-manager-app
+    cd task-manager
     npm install
     ```
 
     or
 
     ```bash
-    cd task-manager-app
+    cd task-manager
     yarn install
     ```
 
